@@ -19,4 +19,14 @@ backend
 8. nodemailer 
 9. dotenv 
 10 cors
+
+   how to use project--
+   for frontend use this commond--
+   1.npm i
+   2.npm run dev
+
+   for backend--
+   1.npm i
+   2.npm i nodemon -g
+   3. get mongoDB connection string and replace in .env file database string.
    
